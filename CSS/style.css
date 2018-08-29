@@ -1,0 +1,57 @@
+h1 {
+  color: pink;
+  font-family: sans-serif;
+  text-shadow: 2px 2px #ff0000;
+
+  }
+
+h2 {
+  color: blue;
+  font-family: monospace;
+  src: url(sansation_bold.woff);
+font-weight: bold;
+  text-shadow: 4px 4px #ff0000;
+
+
+}
+table {
+  color: orange;
+  outline: 5px dotted;
+  outline-colour: orange;
+
+}
+li {
+  color: gold;
+  font-family: inherit;
+  text-decoration:underline;
+  list-style-type: armenian;
+
+}
+p {
+  color: purple;
+  font-family: fantasy;
+}
+strong {
+  color: silver;
+}
+em {
+  color: silver;
+
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+
+}
+th {
+  color: cyan;
+}
+body {
+  background-image: linear-gradient(to bottom left, pink, lightblue);
+  border: 1px dashed #000
+
+}
+img {
+  opacity: 0.5;
+  box-shadow: 10px 6px magenta;
+  border-radius: 25px
+
+
+}
